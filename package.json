@@ -1,0 +1,21 @@
+{
+  "name": "openai",
+  "version": "1.0.0",
+  "description": "This project is the test project to train the model using OpenAI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "openai"
+  ],
+  "author": "Jackie Wang",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "got": "^12.5.3",
+    "jsonlines": "^0.1.1",
+    "openai": "^3.1.0"
+  },
+  "type": "module"
+}
